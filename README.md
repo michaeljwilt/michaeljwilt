@@ -3,7 +3,7 @@
 <p align="center">
  
 </p align="center">
-<img src="https://github.com/ritik307/ritik307/blob/main/images/newbg(1).png" />
+<img src="https://github.com/michaeljwilt/michaeljwilt/blob/main/images/Hi.png" />
 
 <p align="center">
   I'm a student pursuing my degree in Data Science 💻 from Bethel School of Technology 🎒. My passion for data lies in what can be used to help improve people's lives for the better. I love exploring new modalities and finding ways to implement them into my every day life ✨. Currently, I am learning Machine Learning and Modeling 🧠.
