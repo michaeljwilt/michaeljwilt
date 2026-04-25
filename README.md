@@ -10,42 +10,31 @@
 
 ### 👋 About Me
 
-I'm an **Analytics Engineer** and **AI Engineer** building at the intersection of data and intelligence. I design data pipelines, model data with dbt and Dagster, and ship AI-powered products and developer tools.
-
-- Building **AI agents, tools, and software** for real-world workflows  
-- Engineering data models and pipelines with **dbt** and **Dagster**  
-- Shipping full-stack products with **FastAPI** and **React**  
+Data person by trade, AI builder by passion. I work as an Analytics Engineer — designing pipelines, modeling data with dbt and Dagster, turning raw data into decisions that actually matter. Outside of that I build AI tools, agents, and software. Obsessed with finding where AI genuinely moves the needle, not just where it sounds good.
 
 ---
 
 ### 🛠 Tech Stack
 
-**Data & Analytics**
+```yaml
+# michaeljwilt
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Dagster-1E293B?style=for-the-badge&logoColor=white"/>
-</p>
+role: [Analytics Engineer, AI Engineer]
 
-**AI & ML**
+data_stack:
+  modeling:      [dbt, SQL]
+  orchestration: [Dagster]
+  language:      [Python]
 
-<p>
-  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Claude%20API-D97706?style=for-the-badge&logoColor=white"/>
-</p>
+ai_stack:
+  current:       [LLMs, AI Agents, Claude API]
+  building:      [AI Tools, Developer Software, Data Products]
 
-**Dev Stack**
-
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logoColor=white"/>
-</p>
+dev_stack:
+  backend:       [FastAPI]
+  frontend:      [React]
+  tooling:       [git, uv]
+```
 
 ---
 
