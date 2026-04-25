@@ -16,25 +16,38 @@ Data person by trade, AI builder by passion. I work as an Analytics Engineer —
 
 ### 🛠 Tech Stack
 
-```yaml
-# michaeljwilt
-
-role: [Analytics Engineer, AI Engineer]
-
-data_stack:
-  modeling:      [dbt, SQL]
-  orchestration: [Dagster]
-  language:      [Python]
-
-ai_stack:
-  current:       [LLMs, AI Agents, Claude API]
-  building:      [AI Tools, Developer Software, Data Products]
-
-dev_stack:
-  backend:       [FastAPI]
-  frontend:      [React]
-  tooling:       [git, uv]
-```
+<p style="display: inline-block;" align="center">
+  <kbd>
+    <kbd>Data Stack</kbd>
+    <br><br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python"/>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL"/>
+    <img width="30px" src="https://seeklogo.com/images/D/dbt-logo-500AB0BAA7-seeklogo.com.png" title="dbt"/>
+    <img width="30px" src="https://avatars.githubusercontent.com/u/49289175?s=40&v=4" title="Dagster"/>
+  </kbd>
+  <kbd>
+    <kbd>AI Engineering</kbd>
+    <br><br>
+    <img width="30px" src="https://avatars.githubusercontent.com/u/76263028?s=40&v=4" title="Anthropic / Claude API"/>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python"/>
+  </kbd>
+  <kbd>
+    <kbd>Backend</kbd>
+    <br><br>
+    <img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" title="FastAPI"/>
+  </kbd>
+  <kbd>
+    <kbd>Frontend</kbd>
+    <br><br>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" title="React"/>
+  </kbd>
+  <kbd>
+    <kbd>Tooling</kbd>
+    <br><br>
+    <img width="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git"/>
+    <img width="30px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" title="GitHub"/>
+  </kbd>
+</p>
 
 ---
 
