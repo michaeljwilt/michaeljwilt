@@ -1,75 +1,80 @@
+<div align="center">
 
-<!--  https://ritik307.github.io/portfolio/  -->
-<p align="center">
- 
-</p align="center">
-<img src="https://github.com/michaeljwilt/michaeljwilt/blob/main/images/Hi.png" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Michael%20Wilt&fontSize=52&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Analytics%20Engineer%20·%20AI%20Engineer&descAlignY=58&descSize=20)
 
-<p align="center">
-  I'm a student pursuing my degree in Data Science 💻 from Bethel School of Technology 🎒. My passion for data lies in what can be used to help improve people's lives for the better. I love exploring new modalities and finding ways to implement them into my every day life ✨. Currently, I am learning Machine Learning and Modeling 🧠.
-</p>  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=8B5CF6&center=true&vCenter=true&width=560&lines=Building+AI+tools+%26+software+%F0%9F%A4%96;Turning+data+into+decisions+%F0%9F%93%8A;dbt+%7C+Dagster+%7C+FastAPI+%7C+React;Shipping+products+at+the+edge+of+AI+%E2%9A%A1)](https://git.io/typing-svg)
 
+</div>
 
-<h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
+---
 
-<p align="center">
-<img src="https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb"/>
-<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
-<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=python"/>
-<img src="https://img.shields.io/badge/-R-black?style=flat-square&logo=r"/>
+### 👋 About Me
 
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
-<img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
+I'm an **Analytics Engineer** and **AI Engineer** building at the intersection of data and intelligence. I design data pipelines, model data with dbt and Dagster, and ship AI-powered products and developer tools.
 
-<img src="https://img.shields.io/badge/-DJango-black?style=flat-square&logo=django"/>
-<img src="https://img.shields.io/badge/-Tensor Flow-black?style=flat-square&logo=tensorflow"/>
+- Building **AI agents, tools, and software** for real-world workflows  
+- Engineering data models and pipelines with **dbt** and **Dagster**  
+- Shipping full-stack products with **FastAPI** and **React**  
 
-<img src="https://img.shields.io/badge/-Git-black?style=flat-square&logo=git"/>
-<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github"/>
+---
+
+### 🛠 Tech Stack
+
+**Data & Analytics**
+
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Dagster-1E293B?style=for-the-badge&logoColor=white"/>
 </p>
 
-<h2 align="center">Reach me at <img src="https://media0.giphy.com/media/jqNPzdTTxQfOgOqpO4/source.gif" width="50"></h2>
+**AI & ML**
+
+<p>
+  <img src="https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AI%20Agents-7C3AED?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude%20API-D97706?style=for-the-badge&logoColor=white"/>
+</p>
+
+**Dev Stack**
+
+<p>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/uv-DE5FE9?style=for-the-badge&logoColor=white"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-<a href="mailto: michaeljwilt@outlook.com">
- <img src="https://img.shields.io/badge/-michaeljwilt-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:michaeljwilt@outlook.com"/>
-</a>
-<a href="https://www.linkedin.com/in/michaeljwilt/">
- <img src="https://img.shields.io/badge/-michaeljwilt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/michaeljwilt/"/>
-</a>
- 
-</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=michaeljwilt&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljwilt&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight&hide_border=true&layout=compact" height="165"/>
 </p>
 
-
-<h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
-</h2>
 <p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+  <img src="https://streak-stats.demolab.com/?user=michaeljwilt&theme=tokyonight&hide_border=true"/>
 </p>
 
-<h2 align="center">
-  My Github Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50">
-</h2>
- 
-<br>
-
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=michaeljwilt&show_icons=true&theme=radical&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=michaeljwilt&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=michaeljwilt&theme=tokyo-night&hide_border=true&area=true"/>
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=michaeljwilt&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
+---
 
-<p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=michaeljwilt&theme=redical">
-</p> 
-<hr>
-<p align="center">⭐</p>
-<p align="center">↓ Check out my top projects below ↓ </p>
+### 🤝 Connect
+
+<p align="center">
+  <a href="mailto:michaeljwilt@outlook.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/michaeljwilt/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+</p>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer)
